@@ -1,0 +1,93 @@
+/* Reset default browser styles */
+body, h1, h2, h3, p, ul {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Set body background color and font family */
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    color: #333;
+    padding-top: 20px;
+  }
+  
+  /* Container for the whole page */
+  .wrapper {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  }
+  
+  /* Header */
+  header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  header h1 {
+    font-size: 36px;
+    color: #4CAF50;
+  }
+  
+  header p {
+    font-size: 18px;
+    color: #666;
+  }
+  
+  /* About Me section */
+  #about {
+    margin-bottom: 40px;
+  }
+  
+  #about h2 {
+    color: #333;
+  }
+  
+  #about p {
+    font-size: 16px;
+    color: #333;
+  }
+  
+  /* Education section */
+  #education ul {
+    list-style-type: none;
+  }
+  
+  #education li {
+    font-size: 16px;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  /* Projects section */
+  #projects h3 {
+    color: #333;
+    margin-bottom: 5px;
+  }
+  
+  #projects p {
+    font-size: 16px;
+    color: #666;
+  }
+  
+  /* Co-curricular section */
+  #co-curricular ul {
+    list-style-type: none;
+  }
+  
+  #co-curricular li {
+    font-size: 16px;
+    color: #666;
+    margin-bottom: 10px;
+  }
+  
+  /* Internship section */
+  #internship p {
+    font-size: 16px;
+    color: #666;
+    margin-bottom: 20px;
+  }
+  
